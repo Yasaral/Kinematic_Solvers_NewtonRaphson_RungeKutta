@@ -1,5 +1,4 @@
-/* The name of this program is RRP_Forward_Kinematics.c */
-/* Created by Autolev 4.1 on Tue Mar 20 17:12:47 2018 */
+
 
 #include <math.h>  
 #include <stdarg.h>
