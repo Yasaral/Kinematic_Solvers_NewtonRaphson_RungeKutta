@@ -1,3 +1,5 @@
+git commit --amend
+
 #define S_FUNCTION_NAME  RRP_Forward_Kinematics
 #define S_FUNCTION_LEVEL 2
 
